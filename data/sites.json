@@ -94,5 +94,13 @@
   "stackcoder.in": {
     "rss_url": "https://stackcoder.in/rss.xml",
     "language": "English"
+  },
+  "viblo.asia trending": {
+    "rss_url": "https://viblo.asia/rss/posts/trending.rss",
+    "language": "Vietnamese"
+  },
+  "viblo.asia editors-choice": {
+    "rss_url": "https://viblo.asia/rss/posts/editors-choice.rss",
+    "language": "Vietnamese"
   }
 }
